@@ -5,8 +5,8 @@ console.log(dailyObjects[0])
 var myLaptop =
 {
   "name": "MacBook Pro",
-  "productionDate": "2015",
-  "color": "silver",
+  "productionDate": 2015,
+  "color": ["silver", "black"],
   "StoreLocation": "Hong Kong",
   "System": "macOS Catalina"
 };
