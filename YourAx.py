@@ -14,4 +14,4 @@ for i in range(3):
 if guess == YourAx:
     print('I am glad you are an honest person. Now, these four axs are yours! :)')
 else:
-    print('Unfortunatly, you lied too many times. So you lost your ax foever. :(')
+    print('Unfortunatly, you lied too many times. So you lost your ax forever. :(')
