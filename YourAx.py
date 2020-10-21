@@ -12,10 +12,6 @@ for i in range(3):
         break
 
 if guess == YourAx:
-    print('I am glad you are a honest person. Now, these four axs are yours!')
+    print('I am glad you are an honest person. Now, these four axs are yours!')
 else:
-    print('Unfortunatly, you lied too much time. So you lose your axs foever.')
-
-
-
-
+    print('Unfortunatly, you lied too much time. So you lost your ax foever.')
