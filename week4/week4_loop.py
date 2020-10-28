@@ -14,7 +14,7 @@ for i in range(10):
         for i in range(3):
             fill = random.choice(colors)
             fillcolor(fill)
-            pencolor('black')
+            pencolor((1, 0.85, 0.7))
             begin_fill()
             forward(50)
             left(60)
